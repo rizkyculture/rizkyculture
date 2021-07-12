@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nezha Developer</h1>
+<h1 align="center">Hi 👋, I'm Rizky Culture</h1>
 <h3 align="center">Student | Freelance</h3>
+
+- 🔭 I’m currently working on [skripsi](https://github.com/rizkyculture)
 
 - 🌱 I’m currently learning **Laravel & VueJS**
 
