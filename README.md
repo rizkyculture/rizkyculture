@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rizky Culture</h1>
 <h3 align="center">Student | Freelance</h3>
 
-- 🌱 I’m currently learning **Laravel & VueJS**
+- 🌱 I’m currently learning **Codeigniter, Laravel, and DevOps**
 
 - 🤝 I’m looking for help with [skripsi](https://github.com/rizkyculture)
 
