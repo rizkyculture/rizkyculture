@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Codeigniter, Laravel, and DevOps**
 
-- 🤝 I’m looking for help with [skripsi](https://github.com/rizkyculture)
-
 - 📫 How to reach me **rizkyculture@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
