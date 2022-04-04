@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rizky Culture</h1>
-<h3 align="center">Student | Freelance</h3>
+<h3 align="center">Freelance</h3>
 
 - 🌱 I’m currently learning **Codeigniter, Laravel, and DevOps**
 
